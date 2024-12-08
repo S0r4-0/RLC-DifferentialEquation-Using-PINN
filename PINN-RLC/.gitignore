@@ -1,0 +1,5 @@
+# Ignore py-virtual env
+venv/
+
+# Ignore Cache
+TestingWithDifferentModelArchitectures/__pycache__
